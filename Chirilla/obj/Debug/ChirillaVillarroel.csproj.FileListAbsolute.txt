@@ -1,0 +1,7 @@
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\bin\Debug\Chirilla.exe.config
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\bin\Debug\Chirilla.exe
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\bin\Debug\Chirilla.pdb
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\obj\Debug\ChirillaVillarroel.csproj.AssemblyReference.cache
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\obj\Debug\ChirillaVillarroel.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\obj\Debug\Chirilla.exe
+C:\Users\Isaac\Documents\ListasEnlazadas\Chirilla\obj\Debug\Chirilla.pdb
